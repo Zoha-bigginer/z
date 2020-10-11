@@ -1,2 +1,2 @@
 # z
-linux basic terminal with c++
+data base course exercises
